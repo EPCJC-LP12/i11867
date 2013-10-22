@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Formula1", "Formula1\Formula1.vbproj", "{9470864A-89EB-4B85-96CF-1A355E95E11E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9470864A-89EB-4B85-96CF-1A355E95E11E}.Debug|x86.ActiveCfg = Debug|x86
+		{9470864A-89EB-4B85-96CF-1A355E95E11E}.Debug|x86.Build.0 = Debug|x86
+		{9470864A-89EB-4B85-96CF-1A355E95E11E}.Release|x86.ActiveCfg = Release|x86
+		{9470864A-89EB-4B85-96CF-1A355E95E11E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
